@@ -185,6 +185,14 @@ var dataStr = '1、1<br>\
 <br>\
 24、24<br>\
 <br>\
+·I am soory,the time is so less.<br>\
+·Later i will finish it better。<br>\
+·If you want to show your pictures,you can sent them to my email: lzbethelight@gmail.com！<br>\
+·时光只会老去，但时光从不会欺骗我们。<br>\
+<br>\
+<br>\
+25、25<br>\
+<br>\
 ·当人们做不到一些事情的时候，他们就会对你说你也同样不能。<br>\
 ·如果你有梦想的话，就要去捍卫它。<br>\
 ·当你最认为困难的时候，其实就是你最接近成功的时候。<br>\
